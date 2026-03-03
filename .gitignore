@@ -1,0 +1,13 @@
+# Unreal Engine Gereksiz Dosyalar
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+*.sln
+*.suo
+*.pdb
+*.VC.db
+*.VC.opendb
